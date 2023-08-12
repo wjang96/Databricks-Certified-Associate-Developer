@@ -5,3 +5,7 @@ Some contents of this repo are:
 - Common spark functions
 - Informative summary images
 - Sample examination questions that are tricky
+
+
+![image](https://github.com/wjang96/Databricks-Certified-Associate-Developer/assets/72901512/306bcc93-b5d8-4e1d-8a41-320b84ae6051)
+
